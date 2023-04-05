@@ -1,3 +1,5 @@
+#PROGRAM TO BUILD A SIMPLE CALCULATOR IN PYTHON:
+
 number1=eval(input("enter the first number:"))
 number2=eval(input("enter the second number:"))
 operator=input("choose an operator (+,-,*,/):")
